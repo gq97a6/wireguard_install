@@ -1,6 +1,6 @@
 # Wireguard installation script
 
-Installation script that helps you install and manage self-hosted Wireguard server.
+Bash automatization script that helps you install and manage self-hosted Wireguard server.
 
 > [!NOTE]  
 > Before running the script you should have basic knowlage of Wireguard and networking.
