@@ -1,6 +1,6 @@
 # Wireguard installation script
 
-This repo contains installation script that helps you install and manage self-hosted Wireguard server.
+Installation script that helps you install and manage self-hosted Wireguard server.
 
 > [!NOTE]  
 > Before running the script you should have basic knowlage of Wireguard and networking.
